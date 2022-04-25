@@ -8,5 +8,5 @@ export function Dashboard() {
       <Summary />
       <TransactionsTable />
     </Container>
-    );
+  );
 }
